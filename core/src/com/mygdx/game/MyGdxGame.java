@@ -127,5 +127,6 @@ public class MyGdxGame extends ApplicationAdapter {
 		dropSound.dispose();
 		rainMusic.dispose();
 		batch.dispose();
+		
 	}
 }
